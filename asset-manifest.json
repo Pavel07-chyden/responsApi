@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pavel07-chyden/responsApi.git/static/css/main.d40aaff4.chunk.css",
+    "main.js": "/Pavel07-chyden/responsApi.git/static/js/main.cd35a49e.chunk.js",
+    "main.js.map": "/Pavel07-chyden/responsApi.git/static/js/main.cd35a49e.chunk.js.map",
+    "runtime-main.js": "/Pavel07-chyden/responsApi.git/static/js/runtime-main.1f077575.js",
+    "runtime-main.js.map": "/Pavel07-chyden/responsApi.git/static/js/runtime-main.1f077575.js.map",
+    "static/js/2.740b544d.chunk.js": "/Pavel07-chyden/responsApi.git/static/js/2.740b544d.chunk.js",
+    "static/js/2.740b544d.chunk.js.map": "/Pavel07-chyden/responsApi.git/static/js/2.740b544d.chunk.js.map",
+    "static/js/3.1ca0b1f0.chunk.js": "/Pavel07-chyden/responsApi.git/static/js/3.1ca0b1f0.chunk.js",
+    "static/js/3.1ca0b1f0.chunk.js.map": "/Pavel07-chyden/responsApi.git/static/js/3.1ca0b1f0.chunk.js.map",
+    "index.html": "/Pavel07-chyden/responsApi.git/index.html",
+    "static/css/main.d40aaff4.chunk.css.map": "/Pavel07-chyden/responsApi.git/static/css/main.d40aaff4.chunk.css.map",
+    "static/js/2.740b544d.chunk.js.LICENSE.txt": "/Pavel07-chyden/responsApi.git/static/js/2.740b544d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f077575.js",
+    "static/js/2.740b544d.chunk.js",
+    "static/css/main.d40aaff4.chunk.css",
+    "static/js/main.cd35a49e.chunk.js"
+  ]
+}
