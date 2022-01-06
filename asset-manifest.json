@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Pavel07-chyden/responsApi.git/static/css/main.d40aaff4.chunk.css",
-    "main.js": "/Pavel07-chyden/responsApi.git/static/js/main.e3a52fa4.chunk.js",
-    "main.js.map": "/Pavel07-chyden/responsApi.git/static/js/main.e3a52fa4.chunk.js.map",
-    "runtime-main.js": "/Pavel07-chyden/responsApi.git/static/js/runtime-main.1f077575.js",
-    "runtime-main.js.map": "/Pavel07-chyden/responsApi.git/static/js/runtime-main.1f077575.js.map",
-    "static/js/2.740b544d.chunk.js": "/Pavel07-chyden/responsApi.git/static/js/2.740b544d.chunk.js",
-    "static/js/2.740b544d.chunk.js.map": "/Pavel07-chyden/responsApi.git/static/js/2.740b544d.chunk.js.map",
-    "static/js/3.1ca0b1f0.chunk.js": "/Pavel07-chyden/responsApi.git/static/js/3.1ca0b1f0.chunk.js",
-    "static/js/3.1ca0b1f0.chunk.js.map": "/Pavel07-chyden/responsApi.git/static/js/3.1ca0b1f0.chunk.js.map",
-    "index.html": "/Pavel07-chyden/responsApi.git/index.html",
-    "static/css/main.d40aaff4.chunk.css.map": "/Pavel07-chyden/responsApi.git/static/css/main.d40aaff4.chunk.css.map",
-    "static/js/2.740b544d.chunk.js.LICENSE.txt": "/Pavel07-chyden/responsApi.git/static/js/2.740b544d.chunk.js.LICENSE.txt"
+    "main.css": "/responsApi/static/css/main.d40aaff4.chunk.css",
+    "main.js": "/responsApi/static/js/main.e3a52fa4.chunk.js",
+    "main.js.map": "/responsApi/static/js/main.e3a52fa4.chunk.js.map",
+    "runtime-main.js": "/responsApi/static/js/runtime-main.35b3aa8d.js",
+    "runtime-main.js.map": "/responsApi/static/js/runtime-main.35b3aa8d.js.map",
+    "static/js/2.740b544d.chunk.js": "/responsApi/static/js/2.740b544d.chunk.js",
+    "static/js/2.740b544d.chunk.js.map": "/responsApi/static/js/2.740b544d.chunk.js.map",
+    "static/js/3.1ca0b1f0.chunk.js": "/responsApi/static/js/3.1ca0b1f0.chunk.js",
+    "static/js/3.1ca0b1f0.chunk.js.map": "/responsApi/static/js/3.1ca0b1f0.chunk.js.map",
+    "index.html": "/responsApi/index.html",
+    "static/css/main.d40aaff4.chunk.css.map": "/responsApi/static/css/main.d40aaff4.chunk.css.map",
+    "static/js/2.740b544d.chunk.js.LICENSE.txt": "/responsApi/static/js/2.740b544d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f077575.js",
+    "static/js/runtime-main.35b3aa8d.js",
     "static/js/2.740b544d.chunk.js",
     "static/css/main.d40aaff4.chunk.css",
     "static/js/main.e3a52fa4.chunk.js"
