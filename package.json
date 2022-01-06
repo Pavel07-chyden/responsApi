@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/Pavel07-chyden/responsApi.git",
+  "homepage": "https://pavel07-chyden.github.io/responsApi/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
