@@ -1,7 +1,6 @@
 
 
 export const creatorPages = (pages: Array<number>, pagesCount: number, currentPage: number) => {
-   // debugger
    let newpages: any = []
    if (pagesCount > 10) {
       if (currentPage > 5) {
