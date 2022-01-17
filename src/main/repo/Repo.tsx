@@ -4,7 +4,6 @@ import { NavLink } from 'react-router-dom';
 
 import s from './repo.module.css'
 const Repo = (props: any) => {
-// / allows you to do things like:
    const repo = props.repo
    return (
       <div className={s.repo}>
