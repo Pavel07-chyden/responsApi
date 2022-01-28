@@ -5,6 +5,7 @@ import { Main } from '../main/Main';
 import './App.css';
 const App = () => {
 
+  // expect(element).toHaveTextContent(/react/i)
 
   return (
     <BrowserRouter>
