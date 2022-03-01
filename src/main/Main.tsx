@@ -15,9 +15,6 @@ export const Main: FunctionComponent = () => {
    const currentPage = useSelector((state: RootState) => state.repos.currentPage)
    const totalCount = useSelector((state: RootState) => state.repos.totalCount)
    const perPage = useSelector((state: RootState) => state.repos.perPage)
-   const currentPages = useSelector((state: RootState) => state.repos.currentPage)
-   const totalCounts = useSelector((state: RootState) => state.repos.totalCount)
-   const perPages = useSelector((state: RootState) => state.repos.perPage)
    const pagesCount = Math.ceil(totalCount / perPage)
 
    const pages: Array<number> = []
