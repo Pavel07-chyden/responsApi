@@ -6,6 +6,7 @@ import reposReducer from '../reducers/reposReducer';
 export const rootReducer = combineReducers({
     repos: reposReducer, 
 });
+
 //@ts-ignore
 const composeEnhancers = window["REDUX_DEVTOOLS_EXTENSION_COMPOSE"] || compose;
 export const store = createStore(rootReducer, composeEnhancers(

@@ -9,6 +9,7 @@ export type CardsType = {
 
 }
 
+//@ts-ignore
 const Card = (props: CardsType & RouteComponentProps) => {
    const stargazersCount = useSelector((state: RootState) => state.repos.stargazersCount)
    const owner = useSelector((state: RootState) => state.repos.owner)
